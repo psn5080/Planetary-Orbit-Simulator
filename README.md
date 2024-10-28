@@ -89,4 +89,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please open an issue or contact me at buzzpranav06@gmail.com](mailto:buzzpranav06@gmail.com).
